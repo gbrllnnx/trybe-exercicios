@@ -1,1 +1,1 @@
-## Exercícios propostos ao longo do Módulo de Fundamentos
+## Exercícios propostos ao longo do Módulo de Front-end
